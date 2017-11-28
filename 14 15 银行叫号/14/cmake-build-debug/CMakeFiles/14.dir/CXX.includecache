@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 7/14/main.cpp
+iostream
+-
+queue
+-
+vector
+-
+

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/ChainStack.cpp
+ChainStack.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/ChainStack.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/ChainStack.h
+iostream
+-
+Node.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/Node.h
+Node.cpp
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/Node.cpp
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/Node.cpp
+Node.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/Node.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/Node.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/SequenceStack.cpp
+SequenceStack.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/SequenceStack.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/SequenceStack.h
+iostream
+-
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/main.cpp
+iostream
+-
+SequenceStack.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/SequenceStack.h
+SequenceStack.cpp
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/SequenceStack.cpp
+ChainStack.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/ChainStack.h
+ChainStack.cpp
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/stack/ChainStack.cpp
+

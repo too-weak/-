@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/8/DLLNode.cpp
+DLLNode.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/8/DLLNode.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/8/DLLNode.h
+iostream
+-
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/8/DLList.cpp
+DLList.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/8/DLList.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/8/DLList.h
+iostream
+-
+DLLNode.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/8/DLLNode.h
+DLLNode.cpp
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/8/DLLNode.cpp
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/8/main.cpp
+iostream
+-
+DLList.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/8/DLList.h
+DLList.cpp
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Practice/Chapter 2/8/DLList.cpp
+

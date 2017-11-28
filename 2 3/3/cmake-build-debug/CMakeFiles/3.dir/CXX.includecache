@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangwei/MyFile/Learning/数据结构/上机/第一次/3/List.cpp
+List.h
+/Users/wangwei/MyFile/Learning/数据结构/上机/第一次/3/List.h
+
+/Users/wangwei/MyFile/Learning/数据结构/上机/第一次/3/List.h
+iostream
+-
+
+/Users/wangwei/MyFile/Learning/数据结构/上机/第一次/3/main.cpp
+iostream
+-
+List.h
+/Users/wangwei/MyFile/Learning/数据结构/上机/第一次/3/List.h
+List.cpp
+/Users/wangwei/MyFile/Learning/数据结构/上机/第一次/3/List.cpp
+

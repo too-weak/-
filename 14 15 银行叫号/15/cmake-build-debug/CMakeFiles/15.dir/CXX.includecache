@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 7/15/Queue.cpp
+Queue.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 7/15/Queue.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 7/15/Queue.h
+iostream
+-
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 7/15/main.cpp
+Queue.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 7/15/Queue.h
+Queue.cpp
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 7/15/Queue.cpp
+

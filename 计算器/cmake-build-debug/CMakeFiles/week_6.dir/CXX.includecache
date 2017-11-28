@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 6/Calculator.cpp
+Calculator.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 6/Calculator.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 6/Calculator.h
+iostream
+-
+string
+-
+stack
+-
+cmath
+-
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 6/main.cpp
+iostream
+-
+

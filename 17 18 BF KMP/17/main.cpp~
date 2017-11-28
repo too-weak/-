@@ -1,0 +1,32 @@
+#include <iostream>
+using namespace std;
+
+bool Strcmp(const string &s, const string &t);
+
+int main(){
+  string str1, str2;
+  cin>>str1;
+  cin>>str2;
+  if(Strcmp(str1, str2))
+    cout<<"相等"<<endl;
+  else
+    cout<<"不相等"<<endl;
+  return 0;
+}
+
+bool Strcmp(const string& s, const string& t){
+  int sLength = s.length();
+  int tLength = t.length();
+  if(sLength != tLength)
+    return false;
+  for(int i = 0; i < sLength; ++i)
+    if(s[i] != t[i]){
+      if(s[i] > t[i])
+	cout<<"大于"<<endl;
+      else
+	cout<<"小于"<<endl;
+      return false;
+    }
+  return true;
+  
+}

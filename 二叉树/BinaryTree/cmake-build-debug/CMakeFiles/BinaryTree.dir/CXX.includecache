@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/BinaryTree.cpp
+BinaryTree.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/BinaryTree.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/BinaryTree.h
+iostream
+-
+queue
+-
+stack
+-
+BinaryTreeNode.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/BinaryTreeNode.h
+BinaryTreeNode.cpp
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/BinaryTreeNode.cpp
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/BinaryTreeNode.cpp
+BinaryTreeNode.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/BinaryTreeNode.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/BinaryTreeNode.h
+iostream
+-
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/main.cpp
+BinaryTree.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/BinaryTree.h
+BinaryTree.cpp
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/BinaryTree.cpp
+vector
+-
+

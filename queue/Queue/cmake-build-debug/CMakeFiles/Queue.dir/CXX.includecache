@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/LinkNode.cpp
+LinkNode.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/LinkNode.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/LinkNode.h
+iostream
+-
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/LinkedQueue.cpp
+LinkedQueue.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/LinkedQueue.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/LinkedQueue.h
+iostream
+-
+LinkNode.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/LinkNode.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/Sequentialqueue.cpp
+Sequentialqueue.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/Sequentialqueue.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/Sequentialqueue.h
+iostream
+-
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/main.cpp
+Sequentialqueue.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/Sequentialqueue.h
+Sequentialqueue.cpp
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/Sequentialqueue.cpp
+LinkedQueue.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/LinkedQueue.h
+LinkedQueue.cpp
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/Examples/Queue/LinkedQueue.cpp
+

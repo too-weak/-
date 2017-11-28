@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 12/5/BinaryTree.cpp
+BinaryTree.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 12/5/BinaryTree.h
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 12/5/BinaryTree.h
+iostream
+-
+vector
+-
+stack
+-
+queue
+-
+
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 12/5/main.cpp
+BinaryTree.h
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 12/5/BinaryTree.h
+

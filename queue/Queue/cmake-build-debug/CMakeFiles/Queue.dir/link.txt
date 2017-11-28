@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Queue.dir/main.cpp.o CMakeFiles/Queue.dir/Sequentialqueue.cpp.o CMakeFiles/Queue.dir/LinkedQueue.cpp.o CMakeFiles/Queue.dir/LinkNode.cpp.o  -o Queue 

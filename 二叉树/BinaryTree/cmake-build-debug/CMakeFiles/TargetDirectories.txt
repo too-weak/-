@@ -1,0 +1,3 @@
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangwei/MyFile/Learning/Computer/Software/Data Struct/week 10/BinaryTree/cmake-build-debug/CMakeFiles/BinaryTree.dir
